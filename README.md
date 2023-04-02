@@ -1,2 +1,2 @@
 # Proyecto-algoritmo
-30 ejercicios de algoritmo realizados en Pseint
+30 ejercicios de algoritmos realizados en Pseint
